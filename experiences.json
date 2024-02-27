@@ -1,0 +1,91 @@
+[
+    {
+        "experience_name": "Market Research Intern",
+        "location": "Los Angeles, CA",
+        "dates": "Aug 2023 - Jan 2024",
+        "company_name": "Keenly - ESG Reporting",
+        "summary": "Conducted market research and competitive analysis, sourced 300+ prospects, and implemented CRM tools to support product launch, boosting engagement by 30%.",
+        "skills": [
+            "Market Research",
+            "Competitive Analysis",
+            "Prospecting",
+            "CRM Tools",
+            "Strategic Planning"
+        ],
+        "link": ""
+    },
+    {
+        "experience_name": "Business Development Intern",
+        "location": "Los Angeles, CA",
+        "dates": "May 2023 - Aug 2023",
+        "company_name": "Dyrt - Green Tech Startup",
+        "summary": "Developed customer discovery strategies, pitched to clients, and created outbound lead playbooks, increasing adoption by 40% and setting up 40+ C-Suite meetings.",
+        "skills": [
+            "Customer Discovery",
+            "Pitching",
+            "Lead Generation",
+            "Strategic Planning",
+            "Communication"
+        ],
+        "link": ""
+    },
+    {
+        "experience_name": "CUPID Spring Accelerator Analyst",
+        "location": "San Jose, CA",
+        "dates": "Apr 2022 - Jul 2022",
+        "company_name": "Citibank",
+        "summary": "Established financial models and analyzed contracts for CitiWorks, executing a pilot project that incentivized management to continue its development.",
+        "skills": [
+            "Financial Modeling",
+            "Contract Analysis",
+            "Project Management",
+            "Collaboration",
+            "Presentation"
+        ],
+        "link": ""
+    },
+    {
+        "experience_name": "Grants Management Intern",
+        "location": "San Jose, CA",
+        "dates": "Jan 2022 - Apr 2022",
+        "company_name": "City of San Jose Department of Housing",
+        "summary": "Performed due diligence on grant spending, developed new evaluation protocols, and conducted onsite checkups, reducing spending by 17%.",
+        "skills": [
+            "Financial Analysis",
+            "Grant Management",
+            "Protocol Development",
+            "Efficiency Optimization",
+            "Compliance"
+        ]
+    },
+    {
+        "experience_name": "Program Lead",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2023 - Present",
+        "company_name": "Cathartic - Nonprofit supply matchmaker for equitable health and hygiene",
+        "summary": "Led a cross-functional team for a period care program, maintained relationships with healthcare product companies, and improved marketing operations.",
+        "skills": [
+            "Leadership",
+            "Market Research",
+            "Relationship Management",
+            "Data Analysis",
+            "Marketing"
+        ],
+        "link": ""
+    },
+    {
+        "experience_name": "Mentorship Member",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2023 - May 2023",
+        "company_name": "The Consulting Club @ USC",
+        "summary": "Participated in an immersive mentorship program focusing on consulting skills, including case analysis and market sizing, enhancing critical thinking and analysis.",
+        "skills": [
+            "Consulting",
+            "Case Analysis",
+            "Market Sizing",
+            "Networking",
+            "Critical Thinking"
+        ],
+        "link": ""
+    }
+]
